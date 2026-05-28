@@ -5,7 +5,7 @@
 
 ## RESUMO PROFISSIONAL
 
-Estudante de Engenharia Elétrica focado na integração entre hardware e software. Experiência prática na construção de sistemas autônomos, desenvolvimento de APIs e arquiteturas de banco de dados. Orientado à execução técnica rigorosa e ferramentas de linha de comando.
+Estudante de Engenharia Elétrica focado na integração entre hardware e software. Experiência prática na construção de sistemas autônomos, desenvolvimento de APIs e arquiteturas de banco de dados. Orientado à execução técnica e ferramentas de linha de comando.
 
 ## EDUCAÇÃO E PESQUISA
 
